@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [Why AI is important for small business financial analysis](chapter-1-1.md)
-  - [Overview of the book's content](chapter-1-2.md)
 - [Chapter 1: Understanding AI for Small Business Financial Analysis](chapter-2.md)
   - [Definition of AI](chapter-2-1.md)
   - [Types of AI used for financial analysis in small businesses](chapter-2-2.md)

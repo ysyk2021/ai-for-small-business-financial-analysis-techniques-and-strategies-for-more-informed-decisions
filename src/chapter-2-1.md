@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI for Small Business Financial Analysis: Definition of AI
-===================================================================================
+# Definition of AI
 
 Artificial intelligence (AI) is rapidly transforming the world of finance, allowing businesses to gain deeper insights and make more informed decisions. In this chapter, we will define AI and discuss its various applications in small business financial analysis.
 

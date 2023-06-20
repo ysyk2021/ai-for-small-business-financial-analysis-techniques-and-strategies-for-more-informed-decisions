@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI for Small Business Financial Analysis: Types of AI Used for Financial Analysis in Small Businesses
-==============================================================================================================================
+# Types of AI Used for Financial Analysis in Small Businesses
 
 Small businesses can leverage various types of artificial intelligence (AI) technologies to gain deeper insights and make more informed financial decisions. In this chapter, we will discuss the types of AI used for financial analysis in small businesses.
 

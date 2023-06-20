@@ -1,5 +1,4 @@
-Chapter 6: Implementing AI for More Effective Investment Analysis: Case Studies of Successful AI Implementations in Investment Analysis
-=======================================================================================================================================
+# Case Studies of Successful AI Implementations in Investment Analysis
 
 Investment analysis is an essential function in any small business looking to grow and expand. With the increasing availability of large volumes of structured and unstructured data, small businesses can leverage AI technologies to perform investment analysis more effectively. In this chapter, we will look at some case studies of successful AI implementations in investment analysis.
 
