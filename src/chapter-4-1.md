@@ -1,4 +1,4 @@
-# Overview of AI tools and technologies for financial analysis
+
 
 In this chapter, we will provide an overview of the AI tools and technologies available for small businesses to use for financial analysis. By understanding the different types of AI tools and technologies, small businesses can choose the ones that best fit their needs and budget.
 
