@@ -1,5 +1,4 @@
 
-
 Investment analysis is a critical task for small businesses looking to grow and expand. With the increasing availability of large volumes of structured and unstructured data, small businesses have an opportunity to leverage AI technologies to perform investment analysis more effectively. In this chapter, we will provide an overview of AI applications for investment analysis.
 
 Natural Language Processing (NLP)

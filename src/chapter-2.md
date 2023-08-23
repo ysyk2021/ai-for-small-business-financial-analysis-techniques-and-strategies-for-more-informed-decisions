@@ -1,5 +1,4 @@
 
-
 As the use of artificial intelligence (AI) continues to grow in the financial sector, small businesses can leverage this technology to gain deeper insights and make more informed financial decisions. In this chapter, we will define AI, discuss the types of AI used for financial analysis in small businesses, and explore the benefits of AI for making more informed financial decisions.
 
 Definition of AI

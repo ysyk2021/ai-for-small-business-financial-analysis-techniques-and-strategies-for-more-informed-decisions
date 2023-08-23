@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how small businesses can measure the impact of AI on their financial analysis performance. We will discuss key performance indicators (KPIs) that businesses can use to measure the effectiveness of AI in financial analysis and identify areas for improvement.
 
 Key performance indicators (KPIs) for measuring AI impact in financial analysis

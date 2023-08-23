@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the importance of collecting and analyzing financial data with AI for making informed financial decisions in small businesses. By prioritizing data collection and effective analysis, small businesses can gain valuable insights into their financial activities that can inform strategic planning and decision-making.
 
 The importance of data collection for financial decision-making

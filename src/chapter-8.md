@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how small businesses can measure the impact of AI on financial analysis performance. By assessing the effectiveness of AI, identifying areas for improvement, and continuously refining their approach, businesses can use AI to make more informed financial decisions.
 
 Assessing the effectiveness of AI for small business financial analysis
