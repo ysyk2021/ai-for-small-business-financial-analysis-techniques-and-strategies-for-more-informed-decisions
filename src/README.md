@@ -8,3 +8,7 @@ In addition, the book discusses best practices for AI implementation in small bu
 Whether you are a small business owner looking to enhance your financial analysis or a financial professional seeking to stay up-to-date with the latest technology trends, this book will provide valuable insights into the world of AI in finance. We hope that it will serve as a useful guide on your journey towards more informed financial decisions and improved financial performance.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
