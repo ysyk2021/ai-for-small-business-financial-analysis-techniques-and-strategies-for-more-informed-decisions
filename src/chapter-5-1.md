@@ -1,5 +1,4 @@
-Chapter 3: Importance of Data Collection and Analysis for Financial Decision-Making
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical role of data collection and analysis in financial decision-making for small businesses. Effective data collection and analysis processes are essential for generating valuable insights, identifying trends, and making informed decisions. This chapter aims to highlight the significance of data in financial analysis and provide strategies for small businesses to collect, organize, and analyze data effectively.
 

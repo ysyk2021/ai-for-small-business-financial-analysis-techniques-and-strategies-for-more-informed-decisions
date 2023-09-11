@@ -1,5 +1,4 @@
-Chapter 10: Case Studies of Successful AI Implementations in Investment Analysis
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies that demonstrate successful implementations of Artificial Intelligence (AI) techniques in investment analysis for small businesses. These case studies provide practical examples of how AI can enhance investment decision-making processes and generate valuable insights. Through the examination of these success stories, small businesses can gain inspiration and insights into the potential benefits of leveraging AI in their own financial analysis endeavors.
 

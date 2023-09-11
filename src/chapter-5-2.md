@@ -1,5 +1,4 @@
-Chapter 2: Best Practices for Data Collection and Preparation
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the best practices for data collection and preparation in the context of small business financial analysis. Effective data collection and preparation are crucial steps that lay the foundation for accurate and meaningful analysis using Artificial Intelligence (AI) techniques. This chapter aims to provide small businesses with guidelines and strategies to ensure high-quality financial data for their AI-based analysis.
 

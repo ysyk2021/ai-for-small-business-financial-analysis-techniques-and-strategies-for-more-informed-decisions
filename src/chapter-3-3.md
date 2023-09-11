@@ -1,5 +1,4 @@
-Chapter 6: Identifying Potential Implementation Challenges
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential implementation challenges that small businesses may encounter when adopting AI for financial analysis. While AI offers numerous benefits, it is important to be aware of the potential hurdles that may arise during the implementation process. By understanding and addressing these challenges proactively, small businesses can increase the chances of a successful AI integration.
 

@@ -1,5 +1,4 @@
-Chapter 6: Overview of AI Applications for Investment Analysis
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various applications of Artificial Intelligence (AI) in investment analysis for small businesses. AI technologies offer advanced tools and techniques that can enhance investment decision-making processes by analyzing large volumes of financial data, identifying patterns, and generating valuable insights. This chapter provides an overview of how AI can be utilized to improve investment analysis strategies for small businesses.
 

@@ -1,5 +1,4 @@
-Chapter 2: Definition of AI
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the definition and fundamentals of Artificial Intelligence (AI) in the context of small business financial analysis. Understanding the essence of AI is crucial for grasping its applications and potential benefits in improving decision-making processes. This chapter provides a comprehensive overview of AI, its underlying principles, and its relevance to small business financial analysis.
 

@@ -1,5 +1,4 @@
-Chapter 4: Evaluating Data Availability and Quality
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of evaluating data availability and quality for small businesses when implementing AI for financial analysis. Assessing the availability and quality of data is crucial to ensure accurate and reliable insights that can drive informed decision-making. This chapter aims to provide guidance on evaluating data sources, assessing data quality, and implementing strategies to address any data-related challenges.
 
